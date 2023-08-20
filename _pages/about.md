@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
@@ -16,4 +16,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a graduate student at the [Weizmann Institute Of Science](https://www.weizmann.ac.il/pages), where I'm advised by [Prof. Michal Irani](https://www.weizmann.ac.il/math/irani). My research interests revolve around Deep Learning and studying the properties of neural networks.
+I'm a graduate student at the [Weizmann Institute Of Science](https://www.weizmann.ac.il/pages), where I'm advised by [Prof. Michal Irani](https://www.weizmann.ac.il/math/irani). My research interests revolve around Deep Learning and studying the properties of neural networks, with a focus on memorization and unlearning.
+
+Prior to that, I've worked as a software engineer in the industry and received my B.Sc in CS from the Open University of Israel, Summa cum Laude.
