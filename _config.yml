@@ -2,16 +2,16 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: # the website title (if blank, full name will be used instead)
 first_name: Yaniv
 middle_name: 
 last_name: Nikankin
 email: yaniv@nikankin.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   I'm a graduate student at the [*Weizmann Institute Of Science](https://www.weizmann.ac.il/pages), where I'm advised by [*Prof. Michal Irani](https://www.weizmann.ac.il/math/irani). My research interests revolve around Deep Learning and studying the properties of neural networks.
-#footer_text: >
-#  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-#  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+footer_text: >
+  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 #  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: jekyll, yaniv-nikankin, nikankin, deep-learning, DL  # add your own keywords or leave empty
 
