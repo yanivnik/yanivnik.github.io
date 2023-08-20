@@ -1,12 +1,17 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: 
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+### [DL4CV 2023](https://dl4cv.github.io/DL4CV_Winter23/index.html)
 
-Organize your courses by years, topics, or universities, however you like!
+Teaching Assistant, Weizmann Institute Of Science 2023
+
+
+### Weizmann AI Hub
+
+Tutor, Weizmann Institute Of Science, 2023
