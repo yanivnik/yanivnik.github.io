@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-### [Deep Learning For Computer Vision 2023](https://dl4cv.github.io/DL4CV_Winter23/index.html)
+### [Deep Learning For Computer Vision](https://dl4cv.github.io/DL4CV_Winter23/index.html)
 
 Teaching Assistant, Weizmann Institute Of Science, 2023
 
